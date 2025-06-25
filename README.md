@@ -47,7 +47,8 @@ We report on:
 
 1. Click the badge to open in Colab and run **2-representation.ipynb** :
 
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ipeakk/LHL_LLM_Project_/blob/main/notebooks/2-representation.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ipeakk/LHL_LLM_Project/blob/main/notebooks/2-representation.ipynb)
+
 
 2. Locally:
 
